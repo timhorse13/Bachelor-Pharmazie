@@ -1,0 +1,10 @@
+- Isotop: gleiches Element, unterschiedliche Massenzahl
+	- Unterschied normal nur merkbar bei Isotopen mit sehr niedriger Massenzahl
+	- Isotope werden für Massenspektrometrie verwendet, welche durch Austausch von Isotopen ($^1H \leftrightarrow ^2H$) zwar die gleiche chemische Reaktivität zeigen, aber unterschiedliche Masse haben -> im Spektrometer messbar
+- Isotope von $_1^2H$: Wasserstoff (Ganz normales Wasserstoffatom) bekamen sogar eigene Namen als quasi "eigene Elemente":
+	- $_1^1H$: Protium (Leichterer Wasserstoff): Im Atomkern ist nur ein Proton, keine Neutronen
+		- stabiles Wasserstoffisotop
+	- $_1^3H$: Deuterium (Schwerer Wasserstoff): hat ein Neutron mehr im Kern als normales Wasserstoffatom
+		- stabiles Wasserstoffisotop
+	- $_1^4H$: Tritium (Überschwerer Wasserstoff): hat zwei Neutronen mehr als ein normales Wassserstoffatom
+		- ist radioaktiv, also instabil, die Halbwertszeit $\Large t_{\frac{1}{2}}$ beträgt ca. 12,32 Jahre

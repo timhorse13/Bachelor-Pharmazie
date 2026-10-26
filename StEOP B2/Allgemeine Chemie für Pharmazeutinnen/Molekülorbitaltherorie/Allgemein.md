@@ -1,0 +1,2 @@
+- wir haben neue Molekülorbitale, diese sind dem gesamten Molekül zugeordnet
+	- jedes Molekül hat ein "Gesamtpool" an Elektronen -> die man als Wellenfunktion genau definieren kann

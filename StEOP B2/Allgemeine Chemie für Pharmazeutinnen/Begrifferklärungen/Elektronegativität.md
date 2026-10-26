@@ -1,0 +1,1 @@
+- Beschreibt wie stark ein Atom in einer Bindung die Elektronen zu sich ziehen kann

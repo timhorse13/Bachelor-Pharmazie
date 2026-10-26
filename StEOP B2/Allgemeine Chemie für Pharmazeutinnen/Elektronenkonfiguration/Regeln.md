@@ -1,0 +1,3 @@
+- jeweils 2 $e⁻$ pro Orbital
+	- mit entgegengesetztem spin
+- Orbitale werden mit $e⁻$ nach dem Energieniveu gefüllt, also man fängt bei der niedrigsten Energiestufe an und geht dann immer weiter hoch

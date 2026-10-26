@@ -1,0 +1,7 @@
+- sind wie Atomorbitale durch Quantenzahlen charakterisiert
+- man kann es eher nur für kleine Moleküle machen, bei Makromolekülen ist das einfach zu komplex, generell sind Berechnungen meistens nur Näherungen
+- gleiche Gesetze wie bei Atomorbitalen:
+	- aufstehende Energieniveueas
+	- beim  befüllen zu beachten:
+		- Pauli Prinzip
+		- Hundsche Regel

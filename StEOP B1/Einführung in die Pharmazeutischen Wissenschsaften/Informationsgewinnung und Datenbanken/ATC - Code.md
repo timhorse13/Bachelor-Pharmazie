@@ -1,0 +1,1 @@
+Das Anatonisch-therapeutisch-chemische Klassifikationssystem

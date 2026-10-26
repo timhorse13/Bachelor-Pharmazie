@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "9d8d2b0f1de02344",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee4a3b6f3de23566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7253d428fcb0a943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Bindungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bindungen"
+            }
+          },
+          {
+            "id": "9c8415eeac0ef2c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Elektronenaffinität.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elektronenaffinität"
+            }
+          },
+          {
+            "id": "bed596117b71981b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 22.10.2026/Reihungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reihungen"
+            }
+          },
+          {
+            "id": "4817ee0b554cbd35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Coulomb-Kraft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coulomb-Kraft"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2faf4ba9a5bb6514",
+    "type": "split",
+    "children": [
+      {
+        "id": "abda88d866feef5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3983b134a553044b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50c485bf287bb961",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7450482ae02f7244",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "92a55d98b1c8f8ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "787ef78bd32eaf95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c154d28d13cfa33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "StEOP B1/Vorlesungsunterlagen-PHARMAKOGNESIE.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "46cebebbcf4b4f32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "StEOP B1/Vorlesungsunterlagen-PHARMAKOGNESIE.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "baa00025c14c3459",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a6bd6d42d85fa5d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "eac5dd72e2d8a773",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "StEOP B1/Vorlesungsunterlagen-PHARMAKOGNESIE.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "chemedit:Draw New Molecule": false,
+      "chemedit:Create Blank ELN Experiment": false,
+      "chemedit:Open LIMS Dashboard": false
+    }
+  },
+  "active": "7253d428fcb0a943",
+  "lastOpenFiles": [
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Radioaktivität.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Elektronenaffinität.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 22.10.2026/Reihungen.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Coulomb-Kraft.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Untitled.canvas",
+    "Assets/Structure_20261026_185246.svg",
+    "Assets",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Bindungen.md",
+    "[Coulomb-Kraft.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Bindungen/Ionenbindung.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Elektronegativität.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Untitled.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 19.10.2026/Radiaktivität.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 19.10.2026/Elektronenkonfiguration.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 19.10.2026/Molbegriff.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 19.10.2026/Molbegriff WiSe2627 - Moodle.pdf",
+    "StEOP B2/Biologie für Pharmazeutinnen/Untitled.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Isotope.md",
+    "StEOP B2/Biologie für Pharmazeutinnen/Untitled",
+    "StEOP B2/Biologie für Pharmazeutinnen",
+    "Untitled 1.base",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Geschichte der Atommodelle, Elektronen, Orbitale, Elektronenkonfiguration.md",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "2026-10-26.md",
+    "Untitled.canvas",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Emission von Röntgenstrahlen.md",
+    "Pasted image 20261025144052.png",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Periodensystem.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Molbegriff.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Symbole.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Spektroskopie.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Phosphoreszenz.md",
+    "Pasted image 20261025142928.png",
+    "Pasted image 20261025141747.png",
+    "Pasted image 20261025133611.png",
+    "Pasted image 20261025133254.png",
+    "Pasted image 20261025133135.png",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Schrödinger-Gleichung.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Isomerie/Stereoisomerie.md",
+    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakognesie/Untergruppen an Wirkstoffen/Phytopharmaka.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen",
+    "Pasted image 20261024213312.png",
+    "Pasted image 20261024213226.png",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1.",
+    "Pasted image 20261022210556.png",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 22.10.2026",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Molekülorbitaltherorie",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Bindungen/Untitled.canvas",
+    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakognesie/Untitled.canvas"
+  ]
+}

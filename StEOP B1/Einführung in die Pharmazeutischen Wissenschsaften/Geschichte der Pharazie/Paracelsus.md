@@ -1,0 +1,5 @@
+- gehört zu den ganz großen Gestalten des deutschsprachigen Raums:
+	- Arzt, Pharmazeut, Chirurg, Philosoph, Alchemist, Theologe
+- sehr sozial, selbstbewusst, intelligent
+- Vertreter der Signaturenlehre (hat sich für sie stark eingesetzt), Chemiatrie (Anwendung von anorganischen Arzneimitteln)
+- hat als erster anorganische Arzneimittel verwendet

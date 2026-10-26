@@ -1,0 +1,4 @@
+- Apothekenidee: wahrscheinlich aus dem arabischen Raum: Drogen, Gewürz-, Spezereihandel
+	-  in [[Klosterpharmazie]] übernommen
+- ab __13. Jh.__ starke Vermehrung von Apotheken
+- die ersten Apotheken im deutschsprachigen Raum entstanden im __14 Jh.__

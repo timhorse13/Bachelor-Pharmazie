@@ -1,0 +1,7 @@
+- bei der Überlagerung von zwei AOs bilden sich __ZWEI__ MOs:
+- additive Überlagerung:
+	- erhöhte Ladungsdichte
+	- bindendes Molekülorbital
+- subtraktive Überlagerung
+	- verringerte Ladungsdichte
+	- antibindendes Molekülorbital

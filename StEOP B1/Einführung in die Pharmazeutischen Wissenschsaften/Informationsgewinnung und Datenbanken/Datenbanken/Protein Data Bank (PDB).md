@@ -1,0 +1,1 @@
+Zeigt genaue 3D Bilder von Moleküle, gibt molekulares Verständnis, warum z.b. diese Substanz genau diesen Transporter blockiert

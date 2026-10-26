@@ -1,0 +1,19 @@
+- Basiert darauf, wenn man ein Element erhitzt, dann springt für eine kurze Zeit durch die Hitzeenergie ein Elektron auf ein höheres Energieniveau. Dann fällt es wieder zurück und gibt die Energie in Form von einem Photon wieder ab.
+- So kann man wenn man ein Element in eine Flamme hält und mit einem extra dafür gebautem gerät mit Spiegel und Prisma draufschaut, so kann man an verschiedenen Stellen vertikale Linien sehen und anhand denen bestimmen, um welches Element es sich handelt#
+	- Absorptionsspektroskopie:
+		- Messung der Abschwächung einer definierten Strahlung durch eine Probe
+	- Emissionsspektroskopie:
+		- Messung der von einer angeregten Probe ausgesandten Strahlung
+## Atomabsorptionsspektroskopie (AAS)
+- wird zur Spurenanalytik von Metallen verwendet:
+	- z.b. Schwermetallverunreinigungen in Arzneimitteln
+- spezielle Lampe (Hohlkathode) liefert exakt das Emissionsspektrum des gesuchten Elements:
+	- Probe wird in einer Brennflamme (Acetylen: 2300-2800°C) verdampft
+	- Metallatome in der Dampfphase absorbieren den Lichtstrahl (zumindest teilweise)
+	- Messung der Lichtintensität korreliert mit der Teilchenkonzentration - quantitative Analyse
+- Vorteile:
+	- hohe Selektivität: nur Atome die zu der entsprechenden Lampe passen, werden erfasst
+	- hohe Empfindlichkeit: äußerst geringe Nachweisgrenze (bis 1 ppb)!
+- Nachteile:
+	- extrem teuer in Anschaffung und Erhaltung: pro gesuchtem Element eine eigene Lampe nötig
+	- nur für Metalle geeignet: organische Verbindungen (Arzneistoffe!) verbrennen

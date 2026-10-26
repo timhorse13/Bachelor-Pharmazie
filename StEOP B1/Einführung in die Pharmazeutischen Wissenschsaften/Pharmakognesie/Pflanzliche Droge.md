@@ -1,0 +1,1 @@
+Getrocknete Pflanzen oder Pflanzenteile

@@ -1,0 +1,1 @@
+ - Die Elektronenaffinität beschreibt die Energieänderung, wenn ein neutrales Atom im gasförmigen Zustand ein Elektron aufnimmt
