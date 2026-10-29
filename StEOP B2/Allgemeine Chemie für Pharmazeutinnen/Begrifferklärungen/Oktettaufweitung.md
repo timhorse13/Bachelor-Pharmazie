@@ -1,0 +1,1 @@
+- Oktettaufweitung bedeutet, dass ein Atom in einer Lewis-Struktur von mehr als 8 Elektronen in seiner Valenzschale umgeben ist und somit die Oktettregel überschreitet.
