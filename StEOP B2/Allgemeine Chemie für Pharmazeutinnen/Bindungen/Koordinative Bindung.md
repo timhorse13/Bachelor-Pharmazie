@@ -1,5 +1,5 @@
 - ist eine besondere Form der [[Kovalente Bindung|kovalenten Bindung]] 
-	- normale kovalente Bindung: beide Atome steuern jeweils ein Elektron zum gemeinsamen Elektronenpaar bei
+		- normale kovalente Bindung: beide Atome steuern jeweils ein Elektron zum gemeinsamen Elektronenpaar bei111
 	- koordinative Bindung: ein Atom stellt **BEIDE** Elektronen für das gesamte Elektronenpaar zur Verfügung
 ## Zwei Darstellungen der Elektronenpaare
 
@@ -12,7 +12,6 @@ $$
 Chlorid (chloro): $\Large |\overline{\underline{C}}||^-$
 Cyanid (cyano): $\Large |\overline{\underline{C}}^-\equiv N|$
 Kohlenmonoxid (carbonyl)
-
 
 ## Homoleptisch/Heteroleptisch
 ### Homoleptisch
@@ -35,7 +34,7 @@ Kohlenmonoxid (carbonyl)
 
 ![[Pasted image 20261029121536.png|400]]
 
-## Chelator: Ethylendiamintetraacetat (EDTA
+## Chelator: Ethylendiamintetraacetat (EDTA)
 
 ![[Pasted image 20261029121806.png|400]]
 
@@ -50,7 +49,7 @@ Kohlenmonoxid (carbonyl)
 
 Merke: Häm ist wichtig für Sauerstofftransport, Sauerstoffspeicherung und Energiegewinnung.
 
-## Übergangskomplexer
+## Übergangskomplexe
 - häufigste Komplexe!
 - Verwendung von freien d-Orbitalen
 - Aufbau
@@ -96,3 +95,12 @@ Merke: Häm ist wichtig für Sauerstofftransport, Sauerstoffspeicherung und Ener
 - (fast alle Orbitale doppelt besetzt)
 - geringe Zahl ungepaarter Elektronen im Komplex
 - viel stabiler als High-Spin Komplexe!
+
+## Textstrukturformeln von Komplexsalzen
+- **KOMPLEXE IN ECKIGEN KLAMMERN**
+- Liganden:
+	- Neutralliganden: runde Klammern
+	- anionische Liganden vor Neutralliganden: um Verwechslungen mit "echten" Anionen zu vermeiden (nur in der Formel - im Namen immer alphabetisch)
+	- innerhalb der Gruppe: alphabetisch
+	- Alphabet nach Anfangsbuchstaben der Ligandenk, nach Zahlwort ("dicyano"-"tricyano" = Reihung "C")
+	- alle mehratomigen Liganden: runde Klammern

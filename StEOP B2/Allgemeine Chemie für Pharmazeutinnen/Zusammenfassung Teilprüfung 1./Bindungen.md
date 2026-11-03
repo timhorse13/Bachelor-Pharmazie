@@ -27,11 +27,11 @@
 - Ionenbindungen ordnen sich gitterartig in Kristallen an:
 	- bestimmte Anordnungen wiedeholen sich periodisch
 - kleinste Struktureinheit = Elementarzelle
-- Koordinationszahl (KZ):
-	- Anzahl der Kationen, die ein Anion umgeben
-	- bzw. Anzahl der Anionen, die ein Kation umgeben
 - zum trennen des gitters ist eine hohe Energie notwendig:
 	- bei sehr hohen Temperaturen entsteht aus dem Kristallgitter (fest) dann eine Schmelze (flüssig) und anschließend bei extrem hohen Temperaturem formt sich diese in einen gasförmigen Aggregatzustand um
+#### Koordinationszahl (KZ):
+- Anzahl der Kationen, die ein Anion umgeben
+- bzw. Anzahl der Anionen, die ein Kation umgeben
 ### Nomenklatur von Salzen
 - Beispiele:
 $$
