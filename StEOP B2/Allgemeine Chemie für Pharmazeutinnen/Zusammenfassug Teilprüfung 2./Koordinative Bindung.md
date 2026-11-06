@@ -81,4 +81,39 @@ $$
 	2. + 6 Bindungen, z.b. $\Large [Fe^{''}(CN)_6]^{4-}$
 
 ## Komplexe nach dem EPA-Modell
-- 
+- Orbitale werden nur nach ihrer Größe angeordnet
+- Hybridiesierung von s-, p- und d-Orbitalen führt dann zur Bildung von Hybridorbitalen:
+	- Verteilung im Raum
+	- von den Liganden-Elektronen befüllt
+### Beispiel
+- $\Large 2 \cdot 3d + 4s + 3 \cdot 4p$ = d²sp³ Hybridorbitale
+- 6 Hybridorbitale = oktaedrische Raumstruktur
+![[Pasted image 20261104104536.png|500]]
+
+## Liganden bestimmen die Komplex-Art
+### High-Spin-Komplexe:
+	= outer orbital Komplexe
+	= früher: Anlagerunskomplexe
+- die von den Liganden gespendete Elektronen besetzen immer neue freie Orbitale
+- daraus kriegen wir viele einfach besetzte Orbitale
+- hohe Zahl ungepaarter Elektronen im Komplex
+#### Beispiel: High-Spin-Komplex durch Wasser
+Hier kann man sich gut auf [[Geschichte der Atommodelle, Elektronen, Orbitale, Elektronenkonfiguration#Elektronenbesetzung|diese]] Notiz beziehen.
+![[Pasted image 20261104110630.png|600]]
+- Erklärung: oben sehen wir die Elektronenkonfigurationen von Fe⁰ und Fe²⁺. Da erkennt man, dass bei der zweiten Reihe 2 Elektronen im 4s-Orbital fehlen, aufgrund der zweifach positiver Ladung am Eisen.
+- Beim Anlagerungskomplex kommen noch 6 $\Large H_2O$ Liganden dazu. Da wir hier von einem High-Spin-Komplex sprechen, bleiben die restlichen Plätze im 3d Orbital einfach besetzt.
+- Jeder $\Large H_2O$ Ligand besitzt ein freies Elektronenpaar. Daraus können wir sagen, dass wenn wir weiter außenliegende Orbitale besetzen, wir 6 mal ein Elektronenpaar in die neuen Orbitale reinstecken. Beim Beispiel unten nehmen wir ja das Fe²⁺, daher auch 1 H2O in 4s, 3 H2O in 4p und 2H2O in 4p.
+
+### Low-Spin-Komplexe:
+	= inner orbital Komplexe
+	= früher: Durchdringungskomplexe
+- die von den Liganden gespendeten Elektronen füllen einfachbesetzte Orbitale auf
+- (fast) allle Orbitale sind dadurch dann doppelt besetzt
+- geringe Zahl ungepaarter Elektronen im Komplex
+- viel stabiler als High-Spin-Komplexe!
+#### Beispiel: Low-Spin-Komplex durch Cyanid
+![[Pasted image 20261104111014.png|600]]
+- Erklärung: Das gleiche Prinzip wie beim High-Spin-Komplex Beispiel, nur, dass wir hier schon bei den auf einem niedriger liegenden Energieniveau liegenden Orbitalen anfangen die freien Elektronen der Liganden zu befüllen. Somit ergibt sich ein viel stabileres Komplex, in der Komplexstrukturformel sehen wir auch die 4 fach negativ geladene KZ statt bei dem vorherigen Beispielen.
+- Die [[Bindungen#Koordinationszahl (KZ)|Koordinationszahl]] 4- des Komplexes ergibt sich in diesem Fall daraus:
+	- Cyanid ist ja an sich deprotoniertes Cyanwasserstoff ($\Large HCN$) also Cyanid = ($\Large ^-CN$)
+	- Deswegen übernehmen wir bei diesem Beispiel nicht einfach die KZ des Eisens (+2), sondern ziehen die 6 mal vorhandene negative Ladung vom Cyanid von dieser ab: KZ = +2 - 6 = -4

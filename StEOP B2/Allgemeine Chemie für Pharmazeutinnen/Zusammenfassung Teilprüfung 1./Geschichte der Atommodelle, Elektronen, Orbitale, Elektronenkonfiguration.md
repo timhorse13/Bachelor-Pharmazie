@@ -89,7 +89,7 @@
 - hat die Komplexeste Form von allen vorher gelisteten Orbitalen:
 ![[Pasted image 20261025141747.png|600]]
 - hat 7 Varianten, -> kann somit bei Vollbesatzung 14 Elektronen halten
-- auf dem Bild erkennt man die 7 Varianten (Reihenfolge anders als im Bild): $\Large \text{f}_{xz^2}, \space \text{f}_{yz^2}, \space \text{f}x_{x^2-3y^2}, \space \text{f}_{xyz}, \space \text{f}_{z(x^2-y^2)}, \space \text{f}_{z^3}$
+- auf dem Bild erkennt man die 7 Varianten (Reihenfolge anders als im Bild): $\Large \text{f}_{xz^2}, \space \text{f}_{yz^2}, \space \text{f}_{x^2-3y^2}, \space \text{f}_{xyz}, \space \text{f}_{z(x^2-y^2)}, \space \text{f}_{z^3}$
 -  [[Geschichte der Atommodelle, Elektronen, Orbitale, Elektronenkonfiguration#Quantenzahlen|Quantenzahlen]]:
 	- 2. (Nebenquantenzahl): $\Large l = 3$
 	- 3. (Magnetenquantenzahlen): $\Large m_l =$ +3, +2, +1,  0, -1, -2, -3. Hier entspricht wie bei den p- und den d-Orbiitalen jeder Wert einer der verschiedenen räumlichen Anordnungen

@@ -66,7 +66,7 @@ K^{+} + H_2PO_4^{-} \to KH_2PO_4 \space \text{Kaliumdihydrogenphosphat}
 $$
 - wie vorher besprochen: komplexes Anion mit 4 Sauerstoffatomen -> Endung **-at**
 - hätten wir die gleiche Reaktion nur hätte das Anion nur ein H Atom statt 2, dann würde am Ende Kalium(mono)hydrogenphosphat rauskommen, in dem Fall wie [[Bindungen#Zahlenpräfixe|hier]] erwähnt, scheißen wir auf das mono in Klammern weils eh klar ist das nur ein H Atom vorkommmt
-### Sonderfall: Kristallwasser
+### Sonderfall: Krist allwasser
 - Name: separates Wort nach dem Salznamen
 	- Zahlenpräfix für die Anzahl an Wassermolekülen
 	- Endung **"-hydrat"**
@@ -136,7 +136,7 @@ $$
 	- $\Large \sigma$ - Bindungen: 7 (inklusive Bindungen an H Atome, dasselbe gilt für die Doppel- und Dreifachbindung unten)
 	- $\Large \pi$ - Bindungen: 0
 #### Doppelbindung
-- Endung -an (einfachste Form: Ethan)
+- Endung -en (einfachste Form: Ethen)
 - Hybridisierung: sp²
 	- Orbitale pro C Atom. 3 sp² 
 	- nicht hybridisierte p-Orbitale pro C Atom: 1
@@ -145,7 +145,7 @@ $$
 	- $\Large \sigma$ - Bindungen: 5
 	- $\Large \pi$ - Bindungen: 1
 #### Dreifachbindung
-- Endung -an (einfachste Form: Ethin)
+- Endung -in (einfachste Form: Ethin)
 - Hybridisierung: sp
 	- Orbitale pro C Atom. 2 sp 
 	- nicht hybridisierte p-Orbitale pro C Atom: 2
