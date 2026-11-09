@@ -33,16 +33,16 @@ Chlor nimmt ein Elektron auf und wird zu $\Large \mathrm{Cl^-}$.
 
 Bei den **Hauptgruppenelementen** kann man die typischen Ionenladungen häufig direkt aus der Hauptgruppe ableiten.
 
-| Hauptgruppe | Typische Ladung | Beispiele |
-|---|---|---|
-| 1 (Alkalimetalle) | +1 | Li⁺, Na⁺, K⁺ |
-| 2 (Erdalkalimetalle) | +2 | Mg²⁺, Ca²⁺ |
-| 13 (3. HG) | +3 | Al³⁺ |
-| 14 (4. HG) | keine einfache Regel | C, Si |
-| 15 (5. HG) | −3 | N³⁻, P³⁻ |
-| 16 (6. HG) | −2 | O²⁻, S²⁻ |
-| 17 (Halogene) | −1 | F⁻, Cl⁻, Br⁻ |
-| 18 (Edelgase) | normalerweise 0 | Ne, Ar |
+| Hauptgruppe          | Typische Ladung      | Beispiele    |
+| -------------------- | -------------------- | ------------ |
+| 1 (Alkalimetalle)    | +1                   | Li⁺, Na⁺, K⁺ |
+| 2 (Erdalkalimetalle) | +2                   | Mg²⁺, Ca²⁺   |
+| 13 (3. HG)           | +3                   | Al³⁺         |
+| 14 (4. HG)           | keine einfache Regel | C, Si        |
+| 15 (5. HG)           | −3                   | N³⁻, P³⁻     |
+| 16 (6. HG)           | −2                   | O²⁻, S²⁻     |
+| 17 (Halogene)        | −1                   | F⁻, Cl⁻, Br⁻ |
+| 18 (Edelgase)        | normalerweise 0      | Ne, Ar       |
 
 Diese Regel gilt vor allem für **einfache einatomige Ionen**. Nicht jedes Element bildet tatsächlich ein stabiles Ion mit der angegebenen Ladung.
 

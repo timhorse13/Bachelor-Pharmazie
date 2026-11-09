@@ -1,7 +1,97 @@
-**ERGÄNZEN!!!**
+## Erhaltung der Energie
+- Bei Reaktionen bleibt die Energie - bezogen auf das Gesamtsystem konstant:
+	- Energie kann nur umgewandelt werden, sie kann nicht einfach so erzeugt werden oder verschwinden.
+	- Energie steht in Relation zur Masse -> keine Änderung bei chemischen Reaktionen!
+$$
+\huge
+E = m \cdot c^2
+$$
+
+## Systeme in der Thermodynamik
+### Offenes System
+- "klassische" Reaktion in einem offenen Gefäß
+- Massen- und Energieaustausch mit der Umgebung
+### Geschlossenes System
+- Reaktion in einem geschlossenen Gefäß
+- kein Massenaustausch; aber Energieaustausch mit der Umgebung
+### Abgeschlossenes System
+- Reaktion in einem isolierten Gefäß
+- weder Masse- noch Energieaustausch mit der Umgebung
+
+
+## Innere Energie (U)
+- Summe aller kinetischen und potentiellen Energien aller Bestandteile eines Systems
+- **SI-Einheit:** 1 Joule (früher: 1cal $\approx$ 4,2J)
+- innere Energie wird verändert:
+	- bei chemischen Reaktionen,
+	- bei physikalischen Prozessen, z.b. Änderung des Aggregatzustandes, Übertragung von Wärme
+### Änderung der inneren Energie ($\Delta$U)
+$$
+\huge
+\Delta U = Q + W
+$$
+- Wärmeübertragung (Q):
+	- 1J = 1g Wasser um ca. 0,239°C erwärmen (früher: 1cal = 1g Wasser um 1°C erwärmen)
+- Leistung von Arbeit (W):
+	- 1J = Körper gegen Kraft von 1N um 1m verschieben
+	- z.b. Verbrennungsmotor
+
+
+## Reaktionen und Aggregatszuständen
+- die Aggregatszustände der Edukte/Produkte müssen für Berechnungen bekannt sein:
+	- (s): solid
+	- (l): liquid
+	- (g): gaseous
+	- (aq): aquaeous = hydratisiert/gelöst
+
+
+## Energie (U) vs. Enthalpie (H)
+$$
+\huge
+H = U + p \cdot V
+$$
+- bei Reaktionen können Volumenänderungen auftreten (z.b. Gasentstehung):
+	- Druck-Volumen-Arbeit muss verrichtet werden, um Platz zu schaffen
+	- diese zusätzliche Arbeit muss berücksichtigt werden: "Enthalpie ist erweiterte Energie"
+### Enthalpie
+- Beschreibt den Gesamtenergiegehalt eines geschlossenes Systems bei konstantem Druck
+- Enthalpie kann nicht gemessen werden:
+	- nur die Enthalpieänderung ($\Delta$H)!
+- Kalorimetrie:
+	- Temperaturmessung während einer chemischen Reaktion oder Umwandlung der Aggregatzustände
+	- mit Hilfe der Temperaturänderung die Energiedifferenz berechnet werden
+
+
+## Reaktionswärme chemisher Reaktionen
+$$
+\huge
+\Delta H = H_{Produkte} - H_{Edukte}
+$$
+- $\Delta$H < 0:
+	- Enthalpie nimmt ab, Wärme wird frei
+	- die Reaktion ist **exotherm**
+- $\Delta$H > 0:
+	- Enthalpie nimmt zu, Wärme wird aufgenommen
+	- die Reaktion ist **endotherm**
+
+
+## Darstellung der Enthalpieänderung
+- in der Reaktionsgleichung:
+$$
+\Large
+H_2(g) + \frac12O_2(g) \to H_2O(l) + 285kJ
+$$
+- separat:
+$$
+\Large
+H_2(g) + \frac12O_2(g) \to H_2O(l) \newline
+\Large
+\Delta H = -285\frac{kJ}{mol(H_2)}
+$$
 
 ## Hess'scher Wärmesatz
-**ERGÄNZEN!!!**
+> Die Änderung der Enthalpie hängt nur von den Anfangs- und Endbedingungen ab; wie die Zwischenfortschritte erfolgen, ist irrelevant.
+- Gesamtänderung der Enthalpie ist die Summe der Änderungen der Ein
 
 ### Beispiel
 - Selbe Verbindung, anderer Aggregatszustand

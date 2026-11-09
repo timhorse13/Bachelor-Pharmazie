@@ -92,6 +92,7 @@
 - der Schwefel kann maximal nur +VI haben, also ist die Endung -at (Sulfat)
 
 ## Redoxreaktion Beispiel:
+[[Ionenwertigkeit und Ionenladungen zum merken (VON KI ERSTELLT)#2. Ionenladungen anhand des Periodensystems bestimmen|Eventuell hilfreich um die Ladungszahlen zu bestimmen, wenn man die Redoxgleichungen aufstellt]]
 ![[Pasted image 20261105142332.png|600]]
 
 ![[Pasted image 20261105142455.png|600]]
