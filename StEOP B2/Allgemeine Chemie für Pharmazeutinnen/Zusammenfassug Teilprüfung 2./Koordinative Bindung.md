@@ -61,6 +61,7 @@ $$
 - **Wie viele Liganden binden nun?**
 ## 18-Elektronenregel
 ### Grundprinzip
+> aus Tutoring: man kann die Anzahl der s-Orbitale aus der Periode des Elements bestimmen
 - lässt vorhersagen, wie viele **Atome** ("Liganden"?) eine koordinative Bindung zum Zentralatomm aufbauen:
 	- gültig für die meisten Übergangsmetalle
 	- basierend auf dem [[Geschichte der Atommodelle, Elektronen, Orbitale, Elektronenkonfiguration#Bohr - Modell|Bohr'schen]] Modell: 18 Elektronen bis zum Edelgas \[Kr]
@@ -79,6 +80,9 @@ $$
 2. Fe²⁺
 	1. (4s² fällt weg weil KZ = 2+) 3d⁶ = 6e⁻ -> 18 - 6 = 12e⁻ fehlen
 	2. + 6 Bindungen, z.b. $\Large [Fe^{''}(CN)_6]^{4-}$
+3. Pt⁰
+	1. 6s¹5d⁹ -> 1 + 9 = 10 -> 18 - 10 - 8e⁻ fehlen
+	2. + 4 Bindungen, z.b.
 
 ## Komplexe nach dem EPA-Modell
 - Orbitale werden nur nach ihrer Größe angeordnet

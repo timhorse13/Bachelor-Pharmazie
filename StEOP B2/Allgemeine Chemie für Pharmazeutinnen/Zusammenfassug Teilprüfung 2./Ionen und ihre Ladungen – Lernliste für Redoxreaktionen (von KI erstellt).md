@@ -38,26 +38,26 @@ Diese solltest du mit Formel und Ladung lernen.
 | Periodat | $\Large IO_4^{-}$ | −1 |
 ## 2. Einatomige Ionen – häufige feste Ladungen
 
-| Name | Formel | Ladung |
-|---|---|---|
-| Wasserstoff | $\Large H^{+}$ | +1 |
-| Lithium | $\Large Li^{+}$ | +1 |
-| Natrium | $\Large Na^{+}$ | +1 |
-| Kalium | $\Large K^{+}$ | +1 |
-| Silber | $\Large Ag^{+}$ | +1 |
-| Magnesium | $\Large Mg^{2+}$ | +2 |
-| Calcium | $\Large Ca^{2+}$ | +2 |
-| Strontium | $\Large Sr^{2+}$ | +2 |
-| Barium | $\Large Ba^{2+}$ | +2 |
-| Zink | $\Large Zn^{2+}$ | +2 |
-| Aluminium | $\Large Al^{3+}$ | +3 |
-| Fluorid | $\Large F^{-}$ | −1 |
-| Chlorid | $\Large Cl^{-}$ | −1 |
-| Bromid | $\Large Br^{-}$ | −1 |
-| Iodid | $\Large I^{-}$ | −1 |
-| Oxid | $\Large O^{2-}$ | −2 |
-| Sulfid | $\Large S^{2-}$ | −2 |
-| Hydrid | $\Large H^{-}$ | −1 |
+| Name        | Formel           | Ladung |
+| ----------- | ---------------- | ------ |
+| Wasserstoff | $\Large H^{+}$   | +1     |
+| Lithium     | $\Large Li^{+}$  | +1     |
+| Natrium     | $\Large Na^{+}$  | +1     |
+| Kalium      | $\Large K^{+}$   | +1     |
+| Silber      | $\Large Ag^{+}$  | +1     |
+| Magnesium   | $\Large Mg^{2+}$ | +2     |
+| Calcium     | $\Large Ca^{2+}$ | +2     |
+| Strontium   | $\Large Sr^{2+}$ | +2     |
+| Barium      | $\Large Ba^{2+}$ | +2     |
+| Zink        | $\Large Zn^{2+}$ | +2     |
+| Aluminium   | $\Large Al^{3+}$ | +3     |
+| Fluorid     | $\Large F^{-}$   | −1     |
+| Chlorid     | $\Large Cl^{-}$  | −1     |
+| Bromid      | $\Large Br^{-}$  | −1     |
+| Iodid       | $\Large I^{-}$   | −1     |
+| Oxid        | $\Large O^{2-}$  | −2     |
+| Sulfid      | $\Large S^{2-}$  | −2     |
+| Hydrid      | $\Large H^{-}$   | −1     |
 ## 3. Metallionen mit variabler Ladung
 
 Diese kommen besonders häufig bei Redoxreaktionen vor. Ihre Ladung ist durch die römische Zahl im Namen angegeben.
@@ -83,7 +83,7 @@ Diese kommen besonders häufig bei Redoxreaktionen vor. Ihre Ladung ist durch di
 | Quecksilber(II) | $\Large Hg^{2+}$   | +2        |
 | Gold(I)         | $\Large Au^{+}$    | +1        |
 | Gold(III)       | $\Large Au^{3+}$   | +3        |
-
+		
 ## Was musst du wirklich auswendig lernen?
 
 Für deine STEOP-Redoxaufgaben würde ich so unterscheiden:#

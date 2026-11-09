@@ -4,7 +4,7 @@
 
 Unter [[Konstitutionsisomerie]] fallen dann auch noch:
 - Skelettisomerie
-- Stellungsisomerie
+	- Stellungsisomerie
 - Funktionsisomerie
 - Bindungsisomerie
 - Tautomerie
@@ -38,7 +38,7 @@ Unter [[Konstitutionsisomerie]] fallen dann auch noch:
 - Hier wird sich nichts von selber ändern, die Variante wird dauerhaft die Variante bleiben die man gekauft hat, egal wie lange man es lagert
 ### Tautomerie
 - Sonderform der Bindungsisommerie
-- Verbindungen wandeln siich reversibel durch Umklappen von Bindungen ineinander um:
+- Verbindungen wandeln sich reversibel durch Umklappen von Bindungen ineinander um:
 	- Einstellung eines chem. Gleichgewichts
 - Beispiel: 
 	- Gleichgewichtsreaktion zwischen einem Keton und einem Primäralkohol mit einer Doppelbindung (Summenformel: $C_2H_3O$)
@@ -68,16 +68,14 @@ Unter [[Konstitutionsisomerie]] fallen dann auch noch:
 - D-Alanin
 ![[Pasted image 20261022134424.png|400]]
 #### Diastereomerie:
-- alle anderen Konfigurationsismere, die keine Enantiomere sind:
-	- im räunmlichen Aufbau
-#### cis/trans- bzw. E/Z-Isomerie
+- alle anderen Konfigurationsismere, die keine Enantiomere sind, zum Beispiel:
+##### cis/trans- bzw. E/Z-Isomerie
 - Isomerie durch unterschiedliche Stellung
 	- an einer (nicht drehbaren) Bindung: z.b. -C=C- oder -C=N-
 - an einem Ringsystem:
 	- cis = Z = "zusammen"
 	- trans = E = "entgegen"
 - unterschiedliche chemische und physikalische Eigenschaften
-
 __Beispiele:__
 	Maleinsäure (Anion: Male(in)at)
 	Fumarsäure (Anion: Fumarat)
