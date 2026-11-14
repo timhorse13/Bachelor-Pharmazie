@@ -218,4 +218,59 @@ $$
 ![[Pasted image 20261110120354.png|600]]
 
 ###### Praxisbeispiel: Boyle-Mariotte-Gesetz
-- 
+- Kompression eines Gases auf das halbe Volumen:
+	- Druck verdoppelt sich
+- Expansion eines Gases auf das doppelte Volumen:
+	- Druck halbiert sich
+- Beispiel Gasflasche:
+	- In einer 10-Liter-Druckflasche sind bei Raumtemperatur 200 bar eines gespeichert
+	- Das entspricht einem Gasvolumen von 2000 Litern bei Normaldruck (1 bar)
+##### 1. Gay-Lussac-Gesetz
+$$
+\huge
+V_t = V_ß \cdot (1 + \alpha \cdot T) \newline
+\newline \huge
+p = \text{const}
+$$
+- $\Large V_t$: Volumen bei T°C; $\Large V_0$ = Volumen bei 0°C
+- $\Large \alpha$ = kubischer Ausdehnungskoeffizient = $\huge \frac{1}{273,15}$
+- bei Konstantem Druck:
+	- Volumen steigt pro °C linear um $\huge \frac{1}{273,15}$ des Volumens bei 0°C
+	- Gerade: Isobare
+
+![[Pasted image 20261111195031.png|500]]
+
+###### Praxisbeispiel: 1. Gay-Lusaac-Gesetz
+- ein Luftballon hat innen den selben Druck wie die Umgebung
+- Erhitzen:
+	- Ballon dehnt sich aus
+- Abkühlen:
+	- Ballon schrumpft zusammen
+
+##### 2. Gay-Lusaac-Gesetz
+
+![[Pasted image 20261111195723.png|500]]
+###### Praxisbeispiel: 2.Gay-Lusaac-Gesetz
+- Erhitzen eines Gas in verschlossenem Gefäß:
+	- Druck steigt
+	- "Ein verschlossener Glaskolben wird beim Erhitzen mit dem Bunsenbrenner zerbersten"
+- Abkühlen eines Gases in verschlossenem Gefäß:
+	- Druck sinkt
+	- "Ein bei Raumtemperatur verschlossener Kolben"
+
+#### Zustandsgleichung idealer Gase
+$$
+\huge
+p \cdot V = n \cdot R \cdot T
+$$
+- "Zusammenfassung" aller Parameter:
+	- Druck, Volumen, Stoffmenge und Temperatur
+- Einheiten beachten:
+	- R: universelle Gaskonstante = 8,31343 J/mol/K
+	- p in kPa; V in Litern; n in mol; T in Kelvin
+- nur nötig, wenn sich mehrere Parameter gleichzeitig ändern
+- praktikablere Alternativen:
+	- isothermer Prozess: Boyle-Mariotte
+	- isobarer Prozess:   1. Gay-Lussac
+	- isochorer Prozess:  2. Gay-Lussac
+#### Gase

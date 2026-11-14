@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02895d5cb94c0713",
+            "id": "4805f5dd490c6d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Koordinative Bindung.md",
+                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Redoxreaktionen (Erhaltung der Ladung).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Koordinative Bindung"
+              "title": "Redoxreaktionen (Erhaltung der Ladung)"
             }
           },
           {
-            "id": "398bac01fcae6deb",
+            "id": "150addf6bcbd578e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,77 +36,35 @@
             }
           },
           {
-            "id": "1f225e41795255e3",
+            "id": "3fa190686044c4f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Ionenwertigkeit und Ionenladungen zum merken (VON KI ERSTELLT).md",
+                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Orbitalhybridisierung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ionenwertigkeit und Ionenladungen zum merken (VON KI ERSTELLT)"
+              "title": "Orbitalhybridisierung"
             }
           },
           {
-            "id": "efbf20b3c24e22ea",
+            "id": "d033ed940cef1e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Isomerie.md",
+                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Redoxreaktionen (Erhaltung der Ladung).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isomerie"
-            }
-          },
-          {
-            "id": "33e21f20b21dc113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Mentoring 10.11.2026/PW-Kognosie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PW-Kognosie"
-            }
-          },
-          {
-            "id": "1ac41094238e7f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Geschichte der Pharazie/Römische Antike.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Römische Antike"
-            }
-          },
-          {
-            "id": "f5143191e8a84191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Intermolekulare Kräfte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intermolekulare Kräfte"
+              "title": "Redoxreaktionen (Erhaltung der Ladung)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,54 +237,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1ac41094238e7f81",
+  "active": "150addf6bcbd578e",
   "lastOpenFiles": [
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Geschichte der Pharazie/Alchemie.md",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Mentoring 10.11.2026/PW-Kologie.md",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Mentoring 10.11.2026/PW-Kognosie.md",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Mentoring 10.11.2026/PW-Chemie.md",
-    "Pasted image 20261110195653.png",
-    "Pasted image 20261110194927.png",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Mentoring 10.11.2026/PW-Technologie Beispiele.md",
-    "Pasted image 20261110194129.png",
-    "Pasted image 20261110193147.png",
-    "Pasted image 20261110192227.png",
-    "Pasted image 20261110191404.png",
-    "Pasted image 20261110190602.png",
-    "Pasted image 20261110185613.png",
-    "Pasted image 20261110185525.png",
-    "Pasted image 20261110184703.png",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Aggregatzustände der Materie.md",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Mentoring 10.11.2026",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Intermolekulare Kräfte.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Thermodynamik (Erhaltung der Energie).md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Koordinative Bindung.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 09.11.2026/Isomerie.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Isomerie.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Ionenwertigkeit und Ionenladungen zum merken (VON KI ERSTELLT).md",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakologie/Pharmakodynamik.md",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakologie/Pharmakokinetik.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Bindungen.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Symbole.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 09.11.2026/Nomenklatur.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Ionen und ihre Ladungen – Lernliste für Redoxreaktionen (von KI erstellt).md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 09.11.2026",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Molekülorbitale (MOs).md",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakologie/Pharmakologie2.pdf",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Redoxreaktionen (Erhaltung der Ladung).md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Säuren und Basen (VON KI ERSTELLT).md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Isotope.md",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Orbitalhybridisierung.md",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakologie/Pharmakologie1.pdf",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakologie/Allgemein.md",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Informationsgewinnung und Datenbanken/Informationgewinnung_und_Datenbanken.pdf",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmazeutische Chemie/Pharmazeutische_Chemie.pdf",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmazeutische Chemie",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Geschichte der Pharazie/Geschichte_der_Pharmazie_Weiterführung.pdf",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Geschichte der Pharazie/Geschichte_der_Pharmazie.pdf",
-    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakognesie/Pharmakognesie_Ringvorlesung.pdf",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Geschichte der Atommodelle, Elektronen, Orbitale, Elektronenkonfiguration.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 09.11.2026/Isomerie.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 09.11.2026/Nomenklatur.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Koordinative Bindung.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Zusätzliche Zusammenfassungen.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Ionenwertigkeit und Ionenladungen zum merken (VON KI ERSTELLT).md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Ionen und ihre Ladungen – Lernliste für Redoxreaktionen (von KI erstellt).md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Erhaltung der Masse.md",
+    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Mentoring 10.11.2026/PW-Kognosie.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 13.11.2026/Stöchiometrische Reaktionsgleichungen.md",
+    "Pasted image 20261113204333.png",
+    "Pasted image 20261113203014.png",
+    "Pasted image 20261113202217.png",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 13.11.2026/Stöchiometrie - 12.11.2026.pdf",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 09.11.2026/09.11.2026 Komplexe Moodle.pptx",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 13.11.2026/Redoxreaktionen.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 13.11.2026/13.11.26 Redox Moodle.pdf",
+    "Pasted image 20261113200710.png",
+    "Pasted image 20261113200628.png",
+    "Pasted image 20261113200614.png",
+    "Pasted image 20261113193551.png",
+    "Pasted image 20261113193251.png",
+    "Pasted image 20261113192609.png",
+    "Pasted image 20261113192321.png",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/2. Teilprüfung",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 13.11.2026",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Oktettaufweitung.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Isomerie.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Thermodynamik (Erhaltung der Energie).md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Elektronenkonfiguration/Regeln.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Coulomb-Kraft.md",
+    "2026-10-26.md",
+    "Coulomb-Kraft.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Intermolekulare Kräfte.md",
+    "Untitled.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Aggregatzustände der Materie.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Molekülorbitale (MOs).md",
+    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Geschichte der Pharazie/Römische Antike.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Untitled.md",
+    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Geschichte der Pharazie/Alchemie.md",
+    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Mentoring 10.11.2026",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 09.11.2026",
+    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakologie/Pharmakologie2.pdf",
+    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakologie/Pharmakologie1.pdf",
+    "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Informationsgewinnung und Datenbanken/Informationgewinnung_und_Datenbanken.pdf",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

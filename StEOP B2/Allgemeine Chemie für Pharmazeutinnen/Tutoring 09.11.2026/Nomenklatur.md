@@ -26,7 +26,7 @@ Anionische Komplexe -at
 
 > Stannat -> Sn
 > $\Large S_3$ -> trithio
-> $\Large ClO_4$ -> Perchlorat
+> **$\Large ClO_4$ -> Perchlorat**
 > Kobalt kann man mit K schreiben
 > $\Large NH_3$ ist nicht geladen
 > $\Large CO_3^{2-}$ ist zweifach negativ geladen
@@ -50,7 +50,7 @@ $\Large [CoCl_2(NH_3)]$
 
 1. $\Large [Co(NH_3)_4Cl_2]SO_4$ 
 2. $\Large Na[Au(OH)_4]$ 
-3. Pentacarbonyleisen(0) ($\Large Fe)
+3. Pentacarbonyleisen(0) ($\Large Fe$)
 4. Kalium-ammintrichloroplatinat(II)
 
 ## Augabe 6
