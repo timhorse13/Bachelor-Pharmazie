@@ -4,3 +4,5 @@
 Vorbereitung zur zweiten Chemie-Teilprüfung läuft wie ein Rollstuhlfahrer, ich muss knapp an die 30 Punkte kommen um meine Niederlage in der ersten Teilprüfung zu kompensieren.
 
 > Ich will nimma bitte lassts mich in ruhe
+
+> Ja es sind viel zu viele Bilder drin ist mir egal die kriegen kein eigenes Verzeichnis 
