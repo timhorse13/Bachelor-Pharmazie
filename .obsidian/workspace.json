@@ -4,95 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee4a3b6f3de23566",
+        "id": "d896157aaa5407e0",
         "type": "tabs",
         "children": [
           {
-            "id": "4805f5dd490c6d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Redoxreaktionen (Erhaltung der Ladung).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redoxreaktionen (Erhaltung der Ladung)"
-            }
-          },
-          {
-            "id": "f4704902451e0fde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Orbitalhybridisierung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orbitalhybridisierung"
-            }
-          },
-          {
-            "id": "ff5ed3c922ad5133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Ionen und ihre Ladungen – Lernliste für Redoxreaktionen (von KI erstellt).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ionen und ihre Ladungen – Lernliste für Redoxreaktionen (von KI erstellt)"
-            }
-          },
-          {
-            "id": "d1600067bf7327b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Molbegriff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Molbegriff"
-            }
-          },
-          {
-            "id": "787207d107eb759e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Redoxreaktionen (Erhaltung der Ladung).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redoxreaktionen (Erhaltung der Ladung)"
-            }
-          },
-          {
-            "id": "d033ed940cef1e56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 13.11.2026/Redoxreaktionen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redoxreaktionen"
-            }
-          },
-          {
-            "id": "7d3ff61e9909fadd",
+            "id": "66d7d460e715fd9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,91 +22,17 @@
             }
           },
           {
-            "id": "b2eec92e52928816",
+            "id": "05f12e1a96775eac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Intermolekulare Kräfte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intermolekulare Kräfte"
-            }
-          },
-          {
-            "id": "dac1cd5b26368fca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Zusätzliche Zusammenfassungen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zusätzliche Zusammenfassungen"
-            }
-          },
-          {
-            "id": "a3ba8a9dd001795b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Thermodynamik (Erhaltung der Energie).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thermodynamik (Erhaltung der Energie)"
-            }
-          },
-          {
-            "id": "4d791f36afb5524f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Erhaltung der Masse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erhaltung der Masse"
-            }
-          },
-          {
-            "id": "52c6176dc357a2ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Isomerie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isomerie"
-            }
-          },
-          {
-            "id": "40e605ce876ac731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 09.11.2026/Isomerie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isomerie"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -363,8 +205,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3983b134a553044b",
+  "active": "05f12e1a96775eac",
   "lastOpenFiles": [
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Thermodynamik (Erhaltung der Energie).md",
+    "Assets/Pasted image 20261019154648.png",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Elektronegativität.md",
+    "Assets/Pasted image 20261113204333.png",
+    "Assets/Saettigungskonzentration_BaSO4.jpg",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Orbitalhybridisierung.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Zusätzliche Zusammenfassungen.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Molbegriff.md",
+    "Thermodynamik.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 09.11.2026/Isomerie.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Isomerie.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Erhaltung der Masse.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Intermolekulare Kräfte.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 13.11.2026/Redoxreaktionen.md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Redoxreaktionen (Erhaltung der Ladung).md",
+    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Ionen und ihre Ladungen – Lernliste für Redoxreaktionen (von KI erstellt).md",
     "Uni Modul B20 (Bachelorarbeit)",
     "Uni Modul B18",
     "Uni Modul B17",
@@ -375,20 +233,8 @@
     "Uni Modul B13",
     "Uni Modul B12",
     "Uni Modul B11",
-    "Uni Modul B10",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Thermodynamik (Erhaltung der Energie).md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Zusätzliche Zusammenfassungen.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 13.11.2026/Redoxreaktionen.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Ionen und ihre Ladungen – Lernliste für Redoxreaktionen (von KI erstellt).md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Molbegriff.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Redoxreaktionen (Erhaltung der Ladung).md",
     "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Geschichte der Pharazie/Römische Antike.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Orbitalhybridisierung.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Erhaltung der Masse.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Isomerie.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 09.11.2026/Isomerie.md",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Untitled.canvas",
-    "Saettigungskonzentration_BaSO4.jpg",
     "Untitled.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -400,20 +246,15 @@
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Ionenwertigkeit und Ionenladungen zum merken (VON KI ERSTELLT).md",
     "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Mentoring 10.11.2026/PW-Kognosie.md",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Tutoring 13.11.2026/Stöchiometrische Reaktionsgleichungen.md",
-    "Pasted image 20261113204333.png",
-    "Pasted image 20261113203014.png",
-    "Pasted image 20261113202217.png",
-    "Pasted image 20261113200710.png",
-    "Pasted image 20261113200628.png",
-    "Pasted image 20261113200614.png",
-    "Pasted image 20261113193551.png",
-    "Pasted image 20261113193251.png",
+    "Assets/Pasted image 20261113203014.png",
+    "Assets/Pasted image 20261113202217.png",
+    "Assets/Pasted image 20261113200710.png",
+    "Assets/Pasted image 20261113200628.png",
+    "Assets/Pasted image 20261113200614.png",
+    "Assets/Pasted image 20261113193551.png",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Oktettaufweitung.md",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Elektronenkonfiguration/Regeln.md",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Begrifferklärungen/Coulomb-Kraft.md",
-    "2026-10-26.md",
-    "Coulomb-Kraft.md",
-    "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassug Teilprüfung 2./Intermolekulare Kräfte.md",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Bindungen/Untitled.canvas",
     "StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Untitled.canvas",
     "StEOP B1/Einführung in die Pharmazeutischen Wissenschsaften/Pharmakognesie/Untitled.canvas"

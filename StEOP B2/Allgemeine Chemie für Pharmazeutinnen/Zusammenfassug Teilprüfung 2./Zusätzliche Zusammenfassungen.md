@@ -1,4 +1,4 @@
-## Hybridisierung von einem Atom in einem Molekül
+## [[Orbitalhybridisierung|Hybidisierung]] von einem Atom in einem Molekül
 ### Rangehensweise
 1. **Alles was als eine Elektrondomäne zählt:**
 	- Jedes freie Elektronenpaar
@@ -23,13 +23,16 @@
 | 4   | sp²                |
 ### Wie man daraus die Bindungdwinkeln und die Raumanordnung bestimmt
 
-| Hybr. | Bindunwinkel | Elektronraumanordnung | Molekülraumanordnung                                                  |
-| ----- | ------------ | --------------------- | --------------------------------------------------------------------- |
-| sp    | 180°         | Linear                | Immer linear                                                          |
-| sp²   | 120°         | Trigonal Planar       | Kein freies Paar: Trigonal Planar          1 Freies Paar:   gewinkelt |
-| sp³   | 109,5°       | Tetraedrisch          |                                                                       |
+| Hybridisierungsart | Freie Elektronenpaare | Raumstruktur       |
+| ------------------ | --------------------- | ------------------ |
+| sp                 | 0                     | linear             |
+| sp²                | 0                     | trigonal-planar    |
+| sp²                | 1                     | gewinkelt          |
+| sp³                | 0                     | tetraedrisch       |
+| sp³                | 1                     | trigonal-pyramidal |
+| sp³                | 2                     | gewinkelt          |
 
-## Thermodynamik
+## [[Thermodynamik (Erhaltung der Energie)|Thermodynamik]]
 ### Änderung der inneren Energie
 $$
 \huge
@@ -166,7 +169,7 @@ $$
 \Delta H_{Gitterenthalpie} = -\Delta H^0_{298} + \Delta H = 409 + 369 = 778\frac{kJ}{mol}
 $$
 
-## Molbegriff
+## [[StEOP B2/Allgemeine Chemie für Pharmazeutinnen/Zusammenfassung Teilprüfung 1./Molbegriff|Molbegriff]]
 
 $$
 \huge
