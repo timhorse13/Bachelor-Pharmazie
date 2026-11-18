@@ -3,44 +3,46 @@
 
 Diese solltest du mit Formel und Ladung lernen.
 
-| Name               | Formel                | Ladung |
-| ------------------ | --------------------- | ------ |
-| ==Chromat==        | $\Large CrO_4^{2-}$   | ==−2== |
-| Dichromat          | $\Large Cr_2O_7^{2-}$ | −2     |
-| ==Permanganat==    | $\Large MnO_4^{-}$    | ==−1== |
-| Manganat           | $\Large MnO_4^{2-}$   | −2     |
-| ==Sulfat==         | $\Large SO_4^{2-}$    | ==−2== |
-| Sulfit             | $\Large SO_3^{2-}$    | −2     |
-| Thiosulfat         | $\Large S_2O_3^{2-}$  | −2     |
-| Hydrogensulfat     | $\Large HSO_4^{-}$    | −1     |
-| Hydrogensulfit     | $\Large HSO_3^{-}$    | −1     |
-| Nitrat             | $\Large NO_3^{-}$     | −1     |
-| Nitrit             | $\Large NO_2^{-}$     | −1     |
-| ==Carbonat==       | $\Large CO_3^{2-}$    | ==−2== |
-| Hydrogencarbonat   | $\Large HCO_3^{-}$    | −1     |
-| Phosphat           | $\Large PO_4^{3-}$    | −3     |
-| Hydrogenphosphat   | $\Large HPO_4^{2-}$   | −2     |
-| Dihydrogenphosphat | $\Large H_2PO_4^{-}$  | −1     |
-| Hypochlorit        | $\Large ClO^{-}$      | −1     |
-| Chlorit            | $\Large ClO_2^{-}$    | −1     |
-| Chlorat            | $\Large ClO_3^{-}$    | −1     |
-| ==Perchlorat==     | $\Large ClO_4^{-}$    | ==−1== |
-| Peroxid            | $\Large O_2^{2-}$     | −2     |
-| Oxalat             | $\Large C_2O_4^{2-}$  | −2     |
-| ==Hydroxid==       | $\Large OH^{-}$       | ==−1== |
-| Ammonium           | $\Large NH_4^{+}$     | +1     |
-| Oxonium            | $\Large H_3O^{+}$     | +1     |
-| Cyanid             | $\Large CN^{-}$       | −1     |
-| Thiocyanat         | $\Large SCN^{-}$      | −1     |
-| Acetat             | $\Large CH_3COO^{-}$  | −1     |
-| Bromat             | $\Large BrO_3^{-}$    | −1     |
-| Iodat              | $\Large IO_3^{-}$     | −1     |
-| Periodat           | $\Large IO_4^{-}$     | −1     |
-| ==Carbonyl==       | $\Large CO$           | ==0==  |
-| Ammin              | $\Large NH_3$         | 0      |
-| ==Cyanato==        | $\Large OCN^-$        | ==-1== |
-| ==Thio==           | $\Large S^{2-}$       | ==-2== |
-| ==Thocyanato==     | $\Large SCN^-$        | ==-1== |
+| Name                 | Formel                    | Ladung |
+| -------------------- | ------------------------- | ------ |
+| ==Chromat==          | $\Large CrO_4^{2-}$       | ==−2== |
+| ==Permanganat==      | $\Large MnO_4^{-}$        | ==−1== |
+| Manganat             | $\Large MnO_4^{2-}$       | −2     |
+| ==Sulfat==           | $\Large SO_4^{2-}$        | ==−2== |
+| ==Sulfit==           | ==$\Large SO_3^{2-}$==    | ==−2== |
+| ==Thiosulfat==       | ==$\Large S_2O_3^{2-}$==  | ==−2== |
+| Hydrogensulfat       | $\Large HSO_4^{-}$        | −1     |
+| Hydrogensulfit       | $\Large HSO_3^{-}$        | −1     |
+| Nitrat               | $\Large NO_3^{-}$         | −1     |
+| Nitrit               | $\Large NO_2^{-}$         | −1     |
+| ==Carbonat==         | ==$\Large CO_3^{2-}$==    | ==−2== |
+| ==Hydrogencarbonat== | ==$\Large HCO_3^{-}$==    | ==−1== |
+| Phosphat             | $\Large PO_4^{3-}$        | −3     |
+| Hydrogenphosphat     | $\Large HPO_4^{2-}$       | −2     |
+| Dihydrogenphosphat   | $\Large H_2PO_4^{-}$      | −1     |
+| Hypochlorit          | $\Large ClO^{-}$          | −1     |
+| Chlorit              | $\Large ClO_2^{-}$        | −1     |
+| Chlorat              | $\Large ClO_3^{-}$        | −1     |
+| ==Perchlorat==       | ==$\Large ClO_4^{-}$==    | ==−1== |
+| Peroxid              | $\Large O_2^{2-}$         | −2     |
+| ==Oxalat==           | ==$\Large C_2O_4^{2-}$==  | ==-2== |
+| ==Hydroxid==         | ==$\Large OH^{-}$==       | ==−1== |
+| Ammonium             | $\Large NH_4^{+}$         | +1     |
+| Oxonium              | $\Large H_3O^{+}$         | +1     |
+| Cyanid               | $\Large CN^{-}$           | −1     |
+| Thiocyanat           | $\Large SCN^{-}$          | −1     |
+| Acetat               | $\Large CH_3COO^{-}$      | −1     |
+| Bromat               | $\Large BrO_3^{-}$        | −1     |
+| ==Iodat==            | $\Large IO_3^{-}$         | −1     |
+| ==Periodat==         | $\Large IO_4^{-}$         | −1     |
+| ==Carbonyl==         | $\Large CO$               | ==0==  |
+| Ammin                | $\Large NH_3$             | 0      |
+| ==Cyanato==          | ==$\Large OCN^-$==        | ==-1== |
+| ==Thio==             | ==$\Large S^{2-}$==       | ==-2== |
+| ==Thocyanato==       | ==$\Large SCN^-$==        | ==-1== |
+| ==Hypobromit==       | ==$\Large BrO^-$==        | ==-1== |
+| ==Dichromat==        | ==$\Large Cr_2O_7^{2-}$== | ==-2== |
+| ==Nitro==            | ==$\Large NO_2^-$==       | ==-1== |
 ## 2. Einatomige Ionen (Einatomige Ionen – häufige feste Ladungen)
 
 | Name          | Formel            | Ladung |
@@ -58,7 +60,7 @@ Diese solltest du mit Formel und Ladung lernen.
 | ==Aluminium== | $\Large Al^{3+}$  | ==+3== |
 | Fluorid       | $\Large F^{-}$    | −1     |
 | Chlorid       | $\Large Cl^{-}$   | −1     |
-| Bromid        | $\Large Br^{-}$   | −1     |
+| ==Bromid==    | $\Large Br^{-}$   | ==−1== |
 | Iodid         | $\Large I^{-}$    | −1     |
 | Oxid          | $\Large O^{2-}$   | −2     |
 | ==Sulfid==    | $\Large S^{2-}$   | ==−2== |

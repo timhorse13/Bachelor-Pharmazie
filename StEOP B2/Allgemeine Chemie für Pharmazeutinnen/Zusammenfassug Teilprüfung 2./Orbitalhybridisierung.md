@@ -3,7 +3,7 @@ jeinfach die Birne bissl auffrischen type shii
 - bei [[Bindungen#Kovalente Bindung (Atombindung)|kovalenten Bindungen]] teilen sich ja die 2 aneinander bindende Atome ein (oder bei Doppel-/Dreifachbindungen halt mehre) Elektronenpaar.
 - Damit die Bindung zu stande kommen kann, müssen sich die Orbitale der beiden Atome überlappen, so entstehen Hybridorbitale.
 - Die einfachste Form der Hybridisierung ist:
-## sp-Hybridisierung#
+## sp-Hybridisierung
 ### sp³-Hybridisierung (am Beispiel von Methan)
 - Orbitale pro C Atom. 4 sp³ 
 - nicht hybridisierte p-Orbitale pro C Atom: 0
@@ -71,7 +71,7 @@ jeinfach die Birne bissl auffrischen type shii
 	- $\Large ZL_4$ -> tetraedrisch (z.b.: $\Large CH_4, \space NH_4^+$)
 	- $\Large ZL_4$ -> quadratisch-planar (z.b.: Pt-, Cu-Komplexe)
 	- $\Large :ZL_3$ -> trigonal-pyramidal (z.b.: $\Large NH_3, \space H_2SO_3$)
-	- $\Large ::ZL_2$ -> gewinkel (z.b.: $\Large H_2O, \space H_2O_2$)
+	- $\Large ::ZL_2$ -> gewinkelt (z.b.: $\Large H_2O, \space H_2O_2$)
 ### Anzahl = 5
 - Anordnung der Hybridelektronen: trigonal-bipyramidal
 - Hybridisierungstypen: sp³d, dsp³

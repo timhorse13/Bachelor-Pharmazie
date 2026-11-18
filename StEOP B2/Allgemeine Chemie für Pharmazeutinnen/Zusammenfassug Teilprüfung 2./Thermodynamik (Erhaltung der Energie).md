@@ -112,7 +112,7 @@ $$
 	- unter Standartbedingungen:
 $$
 \huge
-2 C (s) + 3 H_2 (g) + \frac12 O_2 (g) \to C_2H_5OH(\text{I})
+2 C (s) + 3 H_2 (g) + \frac12 O_2 (g) \to C_2H_5OH(\text{l})
 $$
 #### Beispiele für Standarbildungsethalpien
 ![[Pasted image 20261105114145.png|500]]

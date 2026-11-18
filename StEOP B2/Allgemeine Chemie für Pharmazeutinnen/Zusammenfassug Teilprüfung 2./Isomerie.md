@@ -37,7 +37,7 @@ Unter [[Konstitutionsisomerie]] fallen dann auch noch:
 	- 1-Butin (eine Dreifachbindung, $t_b = 8°C$)
 - Hier wird sich nichts von selber ändern, die Variante wird dauerhaft die Variante bleiben die man gekauft hat, egal wie lange man es lagert
 ### Tautomerie
-- Sonderform der Bindungsisommerie
+- Sonderform der Bindungsisomerie
 - Verbindungen wandeln sich reversibel durch Umklappen von Bindungen ineinander um:
 	- Einstellung eines chem. Gleichgewichts
 - Beispiel: 
@@ -68,7 +68,7 @@ Unter [[Konstitutionsisomerie]] fallen dann auch noch:
 - D-Alanin
 ![[Pasted image 20261022134424.png|400]]
 #### Diastereomerie:
-- alle anderen Konfigurationsismere, die keine Enantiomere sind, zum Beispiel:
+- alle anderen Konfigurationsisomere, die keine Enantiomere sind, zum Beispiel:
 ##### cis/trans- bzw. E/Z-Isomerie
 - Isomerie durch unterschiedliche Stellung
 	- an einer (nicht drehbaren) Bindung: z.b. -C=C- oder -C=N-
@@ -85,3 +85,10 @@ __Beispiele:__
 - Beispiel: Konformere des Cyclohexans:
 	- farbloses Lösungsmittel, Synthesebaustein
 ![[Pasted image 20261022135457.png]]
+
+
+## Zusammenfassung anhand der Übungsbeispiele
+
+### Tautomerie
+- eine Form von **Konstitutionsisomerie**
+- erkennt man an dem, wenn eine doppelbindung innerhalb vom molekül an eine benachbarte bindung geht, kann man auch daran erkennen, dass ein Wasserstoff auf einmal auf einer anderen position ist

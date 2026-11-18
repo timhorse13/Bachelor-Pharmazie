@@ -2,3 +2,11 @@
 
 - Dabei entsteht das Molekulargewicht \[$\frac{g}{mol}$] aus der Summme der Massenzahlen aller Elemente, Wasser ($H_2O$) als Beispiel:
 	- $M = 1 \cdot 2 + 16 = 18\frac{g}{mol}$
+
+$$
+\huge
+n = \frac{m}{M}
+$$
+- $\Large m$ = Masse
+- $\Large M$ = Molare Masse
+- $\Large n$ = Stoffmenge
